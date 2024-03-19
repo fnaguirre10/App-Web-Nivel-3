@@ -1,0 +1,36 @@
+﻿body {
+    
+}
+
+/* Establecer un margen para el elemento h2 */
+h2 {
+    margin: 20px 0 20px 20px !important; /* Añade !important para forzar la aplicación de la regla */
+}
+
+/* Establecer un margen para los botones */
+.btn-margen {
+    margin: 20px;
+}
+
+.mb-3 {
+    margin-top: 20px; /* Espacio en la parte superior */
+    margin-right: 20px; /* Espacio en el lado derecho */
+    margin-bottom: 20px; /* Espacio en la parte inferior */
+    margin-left: 20px; /* Espacio en el lado izquierdo */
+}
+
+.card {
+    margin-top: 20px; /* Espacio en la parte superior */
+    margin-right: 20px; /* Espacio en el lado derecho */
+    margin-bottom: 20px; /* Espacio en la parte inferior */
+    margin-left: 20px; /* Espacio en el lado izquierdo */
+}
+
+/* Imagenes 500x500 */
+.img-500x500 {
+    width: 500px;
+    height: 500px; 
+    object-fit: contain;
+}
+
+
